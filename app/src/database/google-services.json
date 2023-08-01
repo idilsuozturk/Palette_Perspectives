@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713530857811",
+    "project_id": "palette-perspectives",
+    "storage_bucket": "palette-perspectives.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713530857811:android:d068e54b9e1235831369a6",
+        "android_client_info": {
+          "package_name": "gradle.compiler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713530857811-9cgilj1ui5tiljvj944cgf9vs7h1s9g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7Q_ewfOJ1gOF3jE5-PMwPFMjmfU5EFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713530857811-9cgilj1ui5tiljvj944cgf9vs7h1s9g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
