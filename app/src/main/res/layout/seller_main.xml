@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="203dp"
+        android:layout_height="274dp"
+        app:srcCompat="@drawable/img_7922"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="53dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="188dp"
+        android:layout_height="50dp"
+        android:text="Delete Artwork"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="405dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="188dp"
+        android:layout_height="50dp"
+        android:text="Notıfıcatıons"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="462dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="188dp"
+        android:layout_height="50dp"
+        android:text="My gallery"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="522dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="188dp"
+        android:layout_height="50dp"
+        android:text="account"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="585dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="188dp"
+        android:layout_height="50dp"
+        android:text="Upload Artwork"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="343dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="100dp"
+        android:layout_height="143dp"
+        app:srcCompat="@drawable/white_and_black_simple_photography_initials_logo"
+        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteY="608dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
